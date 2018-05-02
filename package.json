@@ -4,7 +4,7 @@
   "author": "OneOffTech",
   "repository": {
     "type": "git",
-    "url": "https://github.com/k-box/k-link-registry"
+    "url": "https://github.com/k-box/k-link-registry-frontend.git"
   },
   "scripts": {
     "build": "node ./build/build.js",
